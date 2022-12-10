@@ -214,7 +214,7 @@ namespace vMenuClient
             // DLC CHRISTMAS2019 (v 1868)
             { "weapon_ceramicpistol", GetLabelText("WTD_CERPST") },
             { "weapon_navyrevolver", GetLabelText("WTD_REV_NV") },
-            { "weapon_hazardcan", "WTD_HAZARDCAN" },
+            { "weapon_hazardcan", GetLabelText("WTD_HAZARDCAN") },
             // DLC CHRISTMAS2020 (v 2189)
             { "weapon_gadgetpistol", GetLabelText("WTD_GDGTPST") },
             { "weapon_militaryrifle", GetLabelText("WTD_MLTRYRFL") },
@@ -223,6 +223,9 @@ namespace vMenuClient
             { "weapon_heavyrifle", GetLabelText("WTD_HEAVYRIFLE") },
             { "weapon_fertilizercan", GetLabelText("WTD_FERTILIZERCAN") },
             { "weapon_stungun_mp", GetLabelText("WTD_STNGUNMP") },
+            //MPSUM2 DLC (V 2699)
+            { "weapon_tacticalrifle", GetLabelText("WTD_TACRIFLE") },
+            { "weapon_precisionrifle", GetLabelText("WTD_PRCSRIFLE") },
         };
 
         public static readonly Dictionary<string, string> weaponNames = new Dictionary<string, string>()
@@ -331,6 +334,9 @@ namespace vMenuClient
             { "weapon_heavyrifle", GetLabelText("WT_HEAVYRIFLE") },
             { "weapon_fertilizercan", GetLabelText("WT_FERTILIZERCAN") },
             { "weapon_stungun_mp", GetLabelText("WT_STNGUNMP") },
+            //MPSUM2 DLC (V 2699)
+            { "weapon_tacticalrifle", GetLabelText("WT_TACRIFLE") },
+            { "weapon_precisionrifle", GetLabelText("WT_PRCSRIFLE") },
         };
         #endregion
 
@@ -441,6 +447,9 @@ namespace vMenuClient
             ["weapon_heavyrifle"] = Permission.WPHeavyRifle,
             ["weapon_fertilizercan"] = Permission.WPFertilizerCan,
             ["weapon_stungun_mp"] = Permission.WPStunGunMP,
+            //MPSUM2 DLC (V 2699)
+            ["weapon_tacticalrifle"] = Permission.WPTacticalRifle,
+            ["weapon_precisionrifle"] = Permission.WPPrecisionRifle,
         };
         #endregion
 
@@ -820,6 +829,11 @@ namespace vMenuClient
             ["COMPONENT_HEAVYRIFLE_CLIP_02"] = GetLabelText("WCT_CLIP2"),
             ["COMPONENT_HEAVYRIFLE_SIGHT_01"] = GetLabelText("WCT_HVYRFLE_SIG"),
             ["COMPONENT_HEAVYRIFLE_CAMO1"] = GetLabelText("WCT_VAR_FAM"),
+            //MPSUM2 DLC (V 2699)
+            ["COMPONENT_TACTICALRIFLE_CLIP_01"] = GetLabelText("WCT_CLIP1"),
+            ["COMPONENT_TACTICALRIFLE_CLIP_02"] = GetLabelText("WCT_CLIP2"),
+            ["COMPONENT_PRECISIONRIFLE_CLIP_01"] = GetLabelText("WCT_CLIP1"),
+            ["COMPONENT_AT_AR_FLSH_REH"] = GetLabelText("WCT_FLASH"),
         };
         #endregion
 
