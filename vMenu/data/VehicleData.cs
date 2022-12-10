@@ -274,6 +274,7 @@ namespace vMenuClient
 		"KANJO",
 		"BRIOSO",
 		"BRIOSO2",
+		"BRIOSO3",    
 		"CLUB",
 		"DILETTANTE",
 		"DILETTANTE2",
@@ -311,6 +312,7 @@ namespace vMenuClient
 		"PRIMO",
 		"PRIMO2",
 		"REGINA",
+		"RHINEHART",    
 		"ROMERO",
 		"SCHAFTER2",
 		"SCHAFTER6",
@@ -382,6 +384,7 @@ namespace vMenuClient
 		"FELON",
 		"FELON2",
 		"JACKAL",
+		"KANJOSJ",    
 		"ORACLE",
 		"ORACLE2",
 		"PREVION",
@@ -430,6 +433,7 @@ namespace vMenuClient
 		"GAUNTLET3",
 		"GAUNTLET5",
 		"GAUNTLET4",
+		"GREENWOOD",    
 		"HERMES",
 		"HOTKNIFE",
 		"HUSTLER",
@@ -454,6 +458,7 @@ namespace vMenuClient
 		"RUINER",
 		"RUINER3",
 		"RUINER2",
+		"RUINER4",    
 		"SABREGT",
 		"SABREGT2",
 		"SLAMVAN",
@@ -463,12 +468,14 @@ namespace vMenuClient
 		"TULIP",
 		"VAMOS",
 		"VIGERO",
+		"VIGERO2",    
 		"VIRGO",
 		"VIRGO3",
 		"VIRGO2",
 		"VOODOO",
 		"VOODOO2",
 		"TAMPA3",
+		"WEEVIL2",    
 		"YOSEMITE",
             };
             #endregion
@@ -528,6 +535,8 @@ namespace vMenuClient
 		"DRAFTER", 
 		"NINEF",
 		"NINEF2", 
+		"TENF",
+		"TENF2",
 		"ALPHA",
 		"ZR380", 
 		"BANSHEE",
@@ -545,6 +554,7 @@ namespace vMenuClient
 		"COMET5", //Comet SR 
 		"COQUETTE",
 		"COQUETTE4", //Coquette D10 
+		"CORSITA",    
 		"CYPHER",
 		"TAMPA2", //Drift Tampa 
 		"ELEGY", //Elegy Retro Custom 
@@ -582,6 +592,7 @@ namespace vMenuClient
 		"NEON",
 		"ZR3803", //Nightmare ZR380 
 		"OMNIS",
+		"OMNISEGT",    
 		"PARAGON",
 		"PARAGON2", //Paragon R (Armored) 
 		"PARIAH",
@@ -600,7 +611,9 @@ namespace vMenuClient
 		"SCHLAGEN",
 		"SCHWARZER",
 		"SENTINEL3", //Sentinel Classic 
+		"SENTINEL4",    
 		"SEVEN70",
+		"SM722",    
 		"SPECTER",
 		"SPECTER2", //Specter Custom 
 		"BUFFALO3", //Sprunk Buffalo 
@@ -641,7 +654,8 @@ namespace vMenuClient
 		"IGNUS",
 		"INFERNUS",
 		"ITALIGTB",
-		"ITALIGTB2", //Itali GTB Custom 
+		"ITALIGTB2", //Itali GTB Custom
+		"LM87",
 		"KRIEGER",
 		"OSIRIS",
 		"NERO",
@@ -660,6 +674,7 @@ namespace vMenuClient
 		"TEZERACT",
 		"THRAX",
 		"TIGON",
+		"TORERO2",    
 		"TURISMOR",
 		"TYRANT",
 		"TYRUS",
@@ -751,6 +766,7 @@ namespace vMenuClient
 		"CARACARA",
 		"CARACARA2", //Caracara 4x4 
 		"TROPHYTRUCK2", //Desert Raid 
+		"DRAUGUR",    
 		"DUBSTA3", //Dubsta 6x6 
 		"DUNE",
 		"DUNE3", //Dune FAV 
@@ -989,6 +1005,7 @@ namespace vMenuClient
 		"CARGOBOB2", //Jetsam Cargobob 
 		"CARGOBOB3", //Cargobob Trevor Philips Industries variant 
 		"CARGOBOB4", //Cargobob Drop Zone variant 
+		"CONADA",    
 		"HUNTER", //FH-1 Hunter 
 		"FROGGER",
 		"FROGGER2", //Frogger Trevor Philips Industries variant 
