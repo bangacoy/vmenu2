@@ -279,22 +279,20 @@ namespace vMenuShared
             WPUnarmed,
             WPVintagePistol,
             WPWrench,
-            WPPlasmaPistol, // xmas 2018 dlc (1604)
-            WPPlasmaCarbine, // xmas 2018 dlc (1604)
-            WPPlasmaMinigun, // xmas 2018 dlc (1604)
-            WPStoneHatchet, // xmas 2018 dlc (1604)
-            WPCeramicPistol, // xmas 2019 dlc (1868)
-            WPNavyRevolver, // xmas 2019 dlc (1868)
-            WPHazardCan, // xmas 2019 dlc (1868) (Does not have label text)
-            WPPericoPistol, // xmas 2020 dlc (2189)
-            WPMilitaryRifle, // xmas 2020 dlc (2189)
-            WPCombatShotgun, // xmas 2020 dlc (2189)
-            // MPSECURITY DLC (v 2545)
+            WPPlasmaPistol,
+            WPPlasmaCarbine,
+            WPPlasmaMinigun,
+            WPStoneHatchet,
+            WPCeramicPistol,
+            WPNavyRevolver,
+            WPHazardCan,
+            WPPericoPistol,
+            WPMilitaryRifle,
+            WPCombatShotgun,
             WPEMPLauncher,
             WPHeavyRifle,
             WPFertilizerCan,
             WPStunGunMP,
-            // MPSUM2 DLC (v 2699)
             WPPrecisionRifle,
             WPTacticalRifle,
             #endregion
