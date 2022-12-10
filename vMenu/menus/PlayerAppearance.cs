@@ -1221,6 +1221,10 @@ namespace vMenuClient
         };
         private Dictionary<string, string> maleModels = new Dictionary<string, string>()
         {
+		["A_M_M_GenBiker_01"] = "GenBiker 1",
+		["G_M_M_GenThug_01"] = "GenThug 1",
+		["S_M_M_Warehouse_01"] = "Warehouse 1",
+		["U_M_Y_Juggernaut_02"] = "Juggernaut 2",
 		["a_m_y_carclub_01"] = "Car Club",
 		["a_m_y_tattoocust_01"] = "Tattoo Cust",
 		["a_m_m_afriamer_01"] = "African American",
@@ -1588,6 +1592,8 @@ namespace vMenuClient
         };
         private Dictionary<string, string> femaleModels = new Dictionary<string, string>()
         {
+		["A_F_M_GenBiker_01"] = "GenBiker 1",
+		["S_F_M_Warehouse_01"] = "Warehouse 1",
 		["a_f_y_carclub_01"] = "Car Club",
 		["a_f_m_beach_01"] = "Beach",
 		["a_f_m_trampbeac_01"] = "Beach Tramp",
